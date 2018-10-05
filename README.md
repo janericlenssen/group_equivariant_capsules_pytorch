@@ -1,2 +1,2 @@
-# group_equivariant_capsules_pytorch
-Pytorch implementation of Group Equivariant Capsule Networks
+# Group Equivariant Capsule Networks in PyTorch
+Pytorch implementation of my paper Group Equivariant Capsule Networks.
