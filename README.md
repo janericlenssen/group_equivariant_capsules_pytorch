@@ -12,4 +12,5 @@ Install:
 Run examples/mnist.py
 
 Implementations of capsules in group_capsules/nn/modules/pooling_capsule_layer.py
+
 Implementations of sparse group convolution in group_capsules/nn/modules/group_conv_layer.py
