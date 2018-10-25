@@ -9,7 +9,7 @@ Install:
 1) Clone Repo
 2) python setup.py install
 
-Run examples/mnist.py
+In repo dir: python examples/mnist.py to run the MNIST Experiment.
 
 Implementations of capsules in group_capsules/nn/modules/pooling_capsule_layer.py
 
