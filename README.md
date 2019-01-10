@@ -4,6 +4,7 @@ Proof of concept Pytorch implementation of [Group Equivariant Capsule Networks](
 #### Required:
 1) PyTorch 0.4.1
 2) [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
+2) [pytorch_unique](https://github.com/rusty1s/pytorch_unique)
 
 #### Install:
 1) Clone Repo
